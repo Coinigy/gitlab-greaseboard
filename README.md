@@ -1,7 +1,7 @@
 # gitlab-greaseboard
 Greasemonkey/Tampermonkey Enhancements for Gitlab's Issue Boards
 
-Make Gitlab's issue boards perform a bit more like trello
+### Make Gitlab's issue boards perform a bit more like trello
 + double click a board to create a new issue, pre-populating the Label with board name (if it exists)
 + slight styling improvements
 + uses localStorage to poll for auto-refreshes once new issues are added
