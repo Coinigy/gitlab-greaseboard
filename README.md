@@ -7,7 +7,7 @@ Make Gitlab's issue boards perform a bit more like trello
 + uses localStorage to poll for auto-refreshes once new issues are added
 
 Instructions:
-1. Load script into Greasemonkey or Tampermonkey
-2. Edit YOUR_GITLAB_URL to reflect your group's gitlab installation
-3. Activate script
-4. Visit YOUR_GITLAB_URL/*/boards
+### 1. Load script into Greasemonkey or Tampermonkey
+### 2. Edit YOUR_GITLAB_URL to reflect your group's gitlab installation
+### 3. Activate script
+### 4. Visit YOUR_GITLAB_URL/*/boards
